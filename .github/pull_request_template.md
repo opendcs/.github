@@ -1,10 +1,9 @@
-
-
-<!-- if your PR does not fix an open issue you can remove this line -->
-Fixes #. 
-
 ## Problem Description
 
+<!-- if your PR does not address an open issue you can remove this line -->
+Fixes #. 
+
+<!-- if you are referencing a specific issue a problem description is not required -->
 Describe the problem you are trying to solve.
 
 ## Solution
