@@ -12,13 +12,16 @@ Describe your solution.
 
 ## how you tested the change
 
-Describe what was done to test the change.
+Describe what was done to test the change. This section can be left blank 
+if automated tests demonstrating usage are provided in the PR.
 
 ## Where the following done:
 
 - [ ] Tests. Check all that apply:
-   - [ ] Unit tests that run during ant test
-   - [ ] Test procedure descriptions
+   - [ ] Unit tests created or modified that run during ant test.
+   - [ ] Integration tests created or modified that run during integration testing
+         (Formerly called regression tests.)
+   - [ ] Test procedure descriptions for manual testing
 - [ ] Was relevant documentation updated?
 - [ ] Were relevant config element (e.g. XML data) updated as appropriate
 
