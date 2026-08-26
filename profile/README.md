@@ -7,3 +7,19 @@ desire to create easy to use software for gather data from remote sensors and pa
 
 Herein you'll find various projects related to such. Each one has it's own development cycle so expect some 
 differences in style and progress.
+
+# Financial Information
+
+For additional details, including dollar amounts, see: https://opencollective.com/opendcs
+
+## Per supporter Level
+
+[![Backer](https://opencollective.com/opendcs/tiers/backers/badge.svg?label=backer&color=brightgreen)](https://opencollective.com/opendcs/tiers/backers/badge.svg?label=backer&color=brightgreen)
+[![Backer+](https://opencollective.com/opendcs/tiers/backer/badge.svg?label=Backer%2B&color=brightgreen)](https://opencollective.com/opendcs/tiers/backer/badge.svg?label=Backer%2B&color=brightgreen)
+[![Sponsors](https://opencollective.com/opendcs/tiers/sponsors/badge.svg?label=sponsor&color=brightgreen)](https://opencollective.com/opendcs/tiers/sponsors/badge.svg?label=sponsor&color=brightgreen)
+
+## Total
+
+[![Total Contributions](https://opencollective.com/opendcs/tiers/badge.svg)](https://opencollective.com/opendcs/tiers/badge.svg)
+
+[![Contributors](https://opencollective.com/opendcs/tiers/backer.svg?avatarHeight=36&button=false)](https://opencollective.com/opendcs/tiers/backer.svg?avatarHeight=36&button=false)
