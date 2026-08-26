@@ -10,7 +10,9 @@ differences in style and progress.
 
 # Financial Information
 
-## Per Level
+For additional details, including dollar amounts, see: https://opencollective.com/opendcs
+
+## Per supporter Level
 
 [![Backer](https://opencollective.com/opendcs/tiers/backers/badge.svg?label=backer&color=brightgreen)](https://opencollective.com/opendcs/tiers/backers/badge.svg?label=backer&color=brightgreen)
 [![Backer+](https://opencollective.com/opendcs/tiers/backer/badge.svg?label=Backer%2B&color=brightgreen)](https://opencollective.com/opendcs/tiers/backer/badge.svg?label=Backer%2B&color=brightgreen)
@@ -18,8 +20,6 @@ differences in style and progress.
 
 ## Total
 
-For additional details see: https://opencollective.com/opendcs
-
 [![Total Contributions](https://opencollective.com/opendcs/tiers/badge.svg)](https://opencollective.com/opendcs/tiers/badge.svg)
 
-[![Contributors](https://opencollective.com/opendcs/tiers/backer.svg?avatarHeight=36)](https://opencollective.com/opendcs/tiers/backer.svg?avatarHeight=36)
+[![Contributors](https://opencollective.com/opendcs/tiers/backer.svg?avatarHeight=36&button=false)](https://opencollective.com/opendcs/tiers/backer.svg?avatarHeight=36&button=false)
